@@ -33,7 +33,8 @@ a{
 }
 
 .Hardware{
-  height: 100vh;
+  margin-bottom: 70px;
+  /* height: 100vh; */
   /* display: flex;
   flex-direction: row; */
 }
@@ -194,6 +195,7 @@ p{
   background-color: #1f1f1f;
   color: #f7f7f7;
   border-radius: 5px;
+  margin-bottom: 10px;
 }
 
 .modal-btn-buy{
