@@ -77,8 +77,13 @@ p{
   font-weight: lighter;
 }
 
+#console-img{
+  border-radius: 5px;
+}
+
 .games img{
   height: 200px;
+  border-radius: 5px;
   /* width: auto; */
 }
 
@@ -98,6 +103,7 @@ p{
 .logo-img{
   height: 60px;
   margin-top: 50px;
+ 
  
 
 }
@@ -135,6 +141,7 @@ p{
 
 .games{
   background-color: #121314;
+  border-radius: 5px;
 }
 
 #h2-faq{
@@ -161,6 +168,7 @@ p{
 .modal-img{
   height: 200px;
   width: 200%;
+  border-radius: 5px;
 }
 .modal-header{
   display: flex;
@@ -181,12 +189,16 @@ p{
 .modal-img-games{
   width: 238px;
   border-radius: 5px;
+  margin-top: 50px;
   /* margin-right: 50px; */
 }
 
-.col-tlou{
-  /* margin-right: 5px; */
+.randc-img{
+width: 350px;
+
 }
+
+
 .modal-heading{
   margin-top: 30px;
   margin-bottom: 10px;
@@ -203,7 +215,10 @@ p{
  display: flex;
  justify-content: center;
  align-items: center;
- width: 200px;
+ font-size: 20px;
+ margin-bottom: 30px;
+ margin-top: 30px;
+ /* width: 200px; */
 }
 /* .btn-modal{
  
