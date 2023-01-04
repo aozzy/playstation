@@ -236,6 +236,12 @@ width: 350px;
   width: 20%;
   margin-top: 50px;
 }
+.ps-plus-plans{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+}
 
 /* .btn-modal{
  
