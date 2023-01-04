@@ -243,6 +243,10 @@ width: 350px;
   flex-direction: row;
 }
 
+.ps-plus-img{
+  border-radius: 5%;
+}
+
 /* .btn-modal{
  
     text-decoration: none;
