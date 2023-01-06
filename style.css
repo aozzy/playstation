@@ -233,7 +233,7 @@ width: 350px;
 }
 
 .ps-plus-logo{
-  width: 20%;
+  width: 15%;
   margin-top: 50px;
   margin-bottom: 30px;
 }
@@ -250,7 +250,8 @@ width: 350px;
 
 .ps-plus-h3{
   margin-bottom: 30px;
-  /* font-weight:100; */
+  font-size: 40px;
+  font-weight:lighter;
   
 
 }
@@ -259,6 +260,19 @@ width: 350px;
   margin-bottom: 30px;
 }
 
+
+.ps-plus-vid{
+  border-radius: 1%;
+  margin-bottom: 30px;
+}
+
+.ps-plus-text{
+  text-align: center;
+}
+
+.ps-plus-btn{
+  
+}
 /* .btn-modal{
  
     text-decoration: none;
