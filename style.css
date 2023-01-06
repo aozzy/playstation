@@ -240,7 +240,7 @@ width: 350px;
 .ps-plus-plans{
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-around;
   flex-direction: row;
 }
 
@@ -271,7 +271,16 @@ width: 350px;
 }
 
 .ps-plus-btn{
-  
+  border-radius: 88px 88px 88px 89px;
+  height: 55px;
+  width: 300px;
+  font-size: 20px;
+}
+
+
+.ps-plus-h4{
+margin-top: 20px;
+margin-bottom: 20px;
 }
 /* .btn-modal{
  
