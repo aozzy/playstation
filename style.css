@@ -271,6 +271,14 @@ width: 350px;
   font-size: 20px;
 }
 
+.ps-plus-text::selection{
+  background-color: #121314;
+  color: #f7f7f7;
+  font-size: larger;
+}
+
+
+
 .ps-plus-btn{
   border-radius: 88px 88px 88px 89px;
   height: 55px;
