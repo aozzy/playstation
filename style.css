@@ -240,12 +240,17 @@ width: 350px;
 .ps-plus-plans{
   display: flex;
   align-items: center;
-  justify-content: space-around;
+  justify-content: space-between;
   flex-direction: row;
 }
 
 .ps-plus-img{
   border-radius: 5%;
+  transition: .3s ease;
+
+}
+.ps-plus-img:hover{
+  transform: scale(1.1);
 }
 
 .ps-plus-h3{
@@ -302,6 +307,11 @@ margin-bottom: 20px;
   margin-bottom: 15px;
 }
 
+.row-ps-plus{
+  display: flex;
+  justify-content:space-between;
+  
+}
 
 
 /* .btn-modal{
