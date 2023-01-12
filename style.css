@@ -155,7 +155,7 @@ p{
 
 .footer{
   /* margin-top: 10px; */
-  padding-top: 10px;
+  padding-top: 20px;
   height: 70px;
   background-color: white;
   background-color: #f7f7f7 ;
@@ -314,7 +314,13 @@ margin-bottom: 20px;
   
 }
 
+.games-images{
+  transition: .3s ease;
+}
 
+.games-images:hover{
+  transform: scale(1.2);
+}
 /* .btn-modal{
  
     text-decoration: none;
